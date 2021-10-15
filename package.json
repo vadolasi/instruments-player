@@ -1,0 +1,29 @@
+{
+  "name": "instruments-player",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/core": "^3.2.5",
+    "@ionic/vue": "^6.0.0-rc.0",
+    "@ionic/vue-router": "^6.0.0-rc.0",
+    "pinia": "^2.0.0-rc.13",
+    "vue": "^3.2.16",
+    "vue-router": "^4.0.11"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.2.5",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "@vue/cli-service": "4.5.13",
+    "typescript": "^4.4.3",
+    "unplugin-vue-components": "^0.15.6",
+    "vite": "^2.6.4",
+    "vite-plugin-pages": "^0.18.1",
+    "vite-plugin-windicss": "^1.4.11",
+    "vue-tsc": "^0.3.0",
+    "windicss": "^3.1.9"
+  }
+}
